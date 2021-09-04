@@ -1,3 +1,3 @@
 # profileapp
 
-A Profile Created using flutter.
+A Profile App Created using flutter.
